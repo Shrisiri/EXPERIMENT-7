@@ -1,2 +1,5 @@
 # EXPERIMENT-7
-Inheritance
+~ Classes and Objects
+~ Inheritance
+~ Polymorphism
+
